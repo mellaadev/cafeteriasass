@@ -4,7 +4,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Proyecto realizado con las tecnolgías de HTML y CSS. Tiene como finalidad el diseño de una página web o aplicación para una aplicacion de gestión monetaria. Solo posee Front-End y Responsive Web Design.
+Proyecto realizado con las tecnolgías de HTML y SASS. Tiene como finalidad el diseño de una página web para publicitar una cafetería. Solo posee Front-End y Responsive Web Design.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
